@@ -1,6 +1,10 @@
+<div align="center">
+
 ### Hi there 👋
 
 #I am Camila, seeking to connect art and technology.
+  
+</div>
 
 ----
 
